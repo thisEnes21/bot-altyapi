@@ -1,6 +1,5 @@
 # discord-v12-bot-altyapi
 Discord Bot V12 Hazır Altyapı
-
 ---------------------------------------------------------
 
 Modülleri kurmanız yeterli. 
