@@ -8,5 +8,6 @@ Modülleri kurmanız yeterli.
 Config ayarlarını yapmanız yeterli.
 ---------------------------------------------------------
 App.js dosyası içindeki ID'leri kendinize göre girmeniz yeterli.
+---------------------------------------------------------
 
 ---------------------------------------------------------
