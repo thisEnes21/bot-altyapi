@@ -19,7 +19,7 @@ module.exports = {
             let embed = new MessageEmbed()
             .setDescription("**Başarılı**")
             .addField("📥 Giriş", "```js\n" + args.join(" ") + "\n```")
-            .addField("📤 Çıkış, ```\n" + "Eylem Gerçekleşti" + "\n```")
+            .addField("📤 Çıkış", "```\n" + "Eylem Gerçekleşti" + "\n```")
             .setColor("GREEN")
             message.channel.send(embed) 
             message.react("✅")
